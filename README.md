@@ -1,5 +1,5 @@
 # Calculator-JavaScript
-<img src= "https://github.com/Victoria-Belo/Calculator-JavaScript/assets/86816104/4035e93a-7272-402e-b00a-8664820cfaef" width="200px" align="center"> 
+<center><img src= "https://github.com/Victoria-Belo/Calculator-JavaScript/assets/86816104/4035e93a-7272-402e-b00a-8664820cfaef" width="200px"></center>
 Realiza operações matemáticas simples, como adição, subtração, multiplicação e divisão
 
 
