@@ -2,7 +2,7 @@
 Realiza operações matemáticas simples, como adição, subtração, multiplicação e divisão
 
 
-![logo_js_html_css_icon](https://github.com/Victoria-Belo/Calculator-JavaScript/assets/86816104/4035e93a-7272-402e-b00a-8664820cfaef)
+(https://github.com/Victoria-Belo/Calculator-JavaScript/assets/86816104/4035e93a-7272-402e-b00a-8664820cfaef)
 
 
 HOME:
